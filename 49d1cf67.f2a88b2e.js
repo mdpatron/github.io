@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{99:function(o){o.exports=JSON.parse('{"id":"c-19-new-hydroxy","title":"New user of hydroxychloroquine","description":"**Cohort name**: New user of hydroxychloroquine\\r","source":"@site/..\\\\docs\\\\c-19-new-hydroxy.md","permalink":"/github.io/docs/c-19-new-hydroxy"}')}}]);

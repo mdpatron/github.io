@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{104:function(o){o.exports=JSON.parse('{"id":"vocabulary","title":"Vocabulary","description":"# Vocabulary for evaluating effect of drugs on COVID-19 outcomes:\\r","source":"@site/..\\\\docs\\\\vocabulary.md","permalink":"/github.io/docs/vocabulary"}')}}]);

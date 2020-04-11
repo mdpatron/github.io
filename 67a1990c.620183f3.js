@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{101:function(e){e.exports=JSON.parse('{"docsSidebars":{"docs":[{"type":"category","label":"Overview","items":[]},{"type":"category","label":"Dictionary","items":[]},{"type":"category","label":"COVID-19 Cohorts","items":[]},{"type":"category","label":"COVID-19 Terminology","items":[]}]},"permalinkToSidebar":{}}')}}]);
